@@ -1,0 +1,31 @@
+.top{
+position:absolute;
+background-color:#4863A0;
+height:100%;
+width:100%;
+	
+}
+
+
+.img1{
+position: absolute;
+left: 50%;
+right: 50%;
+bottom: 0;
+transform: translateX(-50%);
+height:90%;
+width:60%;
+}
+.bt{
+	position:absolute;
+	top:5%;
+	left:78%;
+	background-color:blue;
+}
+h1{
+	position:absolute;
+	top:-1%;
+	font-weight:bold;
+	font-family: Sacromento,cursive;
+	
+}

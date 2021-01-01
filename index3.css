@@ -1,0 +1,27 @@
+.body{
+	text-align:center;
+}
+
+.top{
+	position:absolute;
+	background-color: lightblue;
+	height:100%;
+	width:100%;	
+}
+.c1{
+	
+	position:absolute;
+	font-family: Sacromento,cursive;
+	font-weight:bold;	
+	top:90%;
+	right:30%;
+	
+}
+.img1{
+	position:absolute;
+    border-radius:50%;
+	top:30%;
+	right:39%;
+	
+	
+}
